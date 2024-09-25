@@ -1,0 +1,118 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Kamen rider Agito",
+      "price": 100,
+      "description": "史上最大のアニメの 1 つである  のファンは、バンダイナムコトイズ & コレクタブルズのアニメヒーローズ 6.5 インチ  アクションフィギュア ラインからお気に入りのキャラクターを家に持ち帰ることができます の世界に浸り",
+      "category": "men's clothing",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiP41efLrNDuFtdtgKOpCDnvwIR4HpOVQHbg&s",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 2,
+      "title": "Kamen rider Kuuga ",
+      "price": 100,
+      "description": "史上最大のアニメの 1 つである  のファンは、バンダイナムコトイズ & コレクタブルズのアニメヒーローズ 6.5 インチ  アクションフィギュア ラインからお気に入りのキャラクターを家に持ち帰ることができます の世界に浸り",
+      "category": "men's clothing",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUdKjPbSpaEu6MgvbgqVeDg4c1iPI8tZ_XHA&s",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
+    },
+    {
+      "id": 3,
+      "title": "Kamen rider Ruyki",
+      "price": 55.99,
+      "description": " コトイズ & コレクタブルズのアニメヒーローズ 6.5 インチ  アクションフィギュア ラインからお気に入りのキャラクターを家に持ち帰ることができます の世界に浸り",
+      "category": "men's clothing",
+      "image": "https://i.ebayimg.com/images/g/nUMAAOSwUUFmXBOG/s-l1200.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
+    },
+    {
+      "id": 4,
+      "title": "Kamen rider Faiz",
+      "price": 100,
+      "description": "史上最大のアニメの 1 つである  のファンは、バンダイナムコトイズ & コレクタブルズのアニメヒーローズ 6.5 インチ  アクションフィギュア ラインからお気に入りのキャラクターを家に持ち帰ることができます の世界に浸り",
+      "category": "men's clothing",
+      "image": "https://m.media-amazon.com/images/I/61LO-Ym0arL.jpg",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      }
+    },
+    {
+      "id": 5,
+      "title": "Kamen rider Blade",
+      "price": 100,
+      "description": "ンダイナムコトイズ & コレクタブルズのアニメヒーローズ 6.5 インチ  アクションフィギュア ラインからお気に入りのキャラクターを家に持ち帰ることができます の世界に浸り",
+      "image": "https://i.ebayimg.com/images/g/rQYAAOSw51RkrVdF/s-l1200.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      }
+    },
+    {
+      "id": 6,
+      "title": "Kamen rider Kabuto",
+      "price": 100,
+      "description": "ョンフィギュア ラインからお気に入りのキャラクターを家に持ち帰ることができます の世界に浸り",
+      "category": "jewelery",
+      "image": "https://images.bigbadtoystore.com/images/p/full/2022/12/c55e2c62-9010-4003-8315-66b69a20530b.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 70
+      }
+    },
+    {
+      "id": 7,
+      "title": "Kamen rider Kiva",
+      "price": 100,
+      "description": "",
+      "category": "史上最大のアニメの 1 つである  のファンは、バンダイナムコトイズ & コレクタブルズのアニメヒーローズ 6.5 インチ  アクションフィギュア ラインからお気に入りのキャラクターを家に持ち帰ることができます の世界に浸り",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV2-z1efXBSshQY8ARpEBXAuJ6GWPv-T2-5g&s",
+      "rating": {
+        "rate": 3,
+        "count": 400
+      }
+    },
+    {
+      "id": 8,
+      "title": "Kamen rider Decade",
+      "price": 100,
+      "description": "史上最大のアニメの 1 つである  のファンは、バンダイナムコトイズ & コレクタブルズのアニメヒーローズ 6.5 インチ  アクションフィギュア ラインからお気に入りのキャラクターを家に持ち帰ることができます の世界に浸り",
+      "category": "jewelery",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/513QMzTermL.jpg",
+      "rating": {
+        "rate": 1.9,
+        "count": 100
+      }
+    },
+    {
+      "id": 9,
+      "title": "Kamen rider Gaim",
+      "price": 100,
+      "description": "史上最大のアニメの 1 つである  のファンは、バンダイナムコトイズ & コレクタブルズのアニメヒーローズ 6.5 インチ  アクションフィギュア ラインからお気に入りのキャラクターを家に持ち帰ることができます の世界に浸り",
+      "category": "electronics",
+      "image": "https://i.ebayimg.com/images/g/h3YAAOSwfM9kLm1m/s-l400.jpg",
+      "rating": {
+        "rate": 3.3,
+        "count": 203
+      }
+    }
+  ],
+  "users": [
+    {
+      "email": "ngueynthanhtung@gmail.com",
+      "password": "$2a$10$VqJLkrTcnaSlYnswoRsMMO4neIjyhQ5rdR8hDYfE.dxhlC2BL4r9W",
+      "id": 1
+    }
+  ]
+}

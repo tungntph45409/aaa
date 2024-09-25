@@ -1,0 +1,33 @@
+<main>
+  <img src="./banner.jpg" alt="" />
+  <br />
+  <br />
+  <br />
+  <div class="container">
+    <div class="row">
+      @for (product of products; track product.id) {
+      <div class="col">
+        <div class="card" style="width: 18rem">
+          <img
+            class="card-img-top"
+            [src]="product.image"
+            alt="Card image cap"
+          />
+          <div class="card-body">
+            <h5 class="card-title">{{ product.title }}</h5>
+            <p>Money: {{ product.price }} $</p>
+            <p class="card-text">
+              {{ product.description }}
+            </p>
+            <a [routerLink]="['/product', product.id]" class="btn btn-danger"
+              >Xem</a
+            >
+          </div>
+        </div>
+      </div>
+      } @empty {
+      <li>There are no items.</li>
+      }
+    </div>
+  </div>
+</main>
