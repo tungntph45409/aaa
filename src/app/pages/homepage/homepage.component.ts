@@ -14,6 +14,7 @@ export class HomepageComponent {
   products: Product[] = [];
   ProductService = inject(ProductService);
   toast = inject(HotToastService);
+  //////////////////////////
 
   ngOnInit() {
     this.ProductService.getAll().subscribe({
